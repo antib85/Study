@@ -1,2 +1,0 @@
-D:\ServerCode\UnrealServer2\UnrealClient\Intermediate\Build\Win64\UE4Editor\Development\UnrealClient\Definitions.UnrealClient.h
-D:\ServerCode\UnrealServer2\UnrealClient\Source\UnrealClient\UnrealClient.h
